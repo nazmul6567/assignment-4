@@ -28,13 +28,7 @@ function onlyCharacter(str) {
   return finalResult;
 }
 
-echo "# assignment-4" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/nazmul6567/assignment-4.git
-git push -u origin main
+
 
 function bestTeam(player1, player2) {
   if (
